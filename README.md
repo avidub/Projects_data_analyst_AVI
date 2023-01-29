@@ -16,4 +16,4 @@
 | [Анализ поведения пользователей мобильного приложения](mob_app_customers_analysis) |Анализ воронки продаж пользователей мобильного приложения по продаже продуктов питания| *pandas*, *seaborn*, *numpy*, *matplotlib*, *datetime*, *scipy*, *plotly* |
 | [Анализ причин оттока клиентов фитнесс-клуба](fitness_customers_outflow_analysis) |Решение задачи анализа с использованием методов машинного обучения| *pandas*, *seaborn*, *sklearn*, *matplotlib*, *scipy* |
 | [Анализ эффективности работы операторов колл-центра](call_center_operators_efficiency) |Анализ баз, проработка возможных вариантов оценки эффективности операторов| *pandas*, *seaborn*, *sklearn*, *matplotlib*, *scipy* |
-| [Анализ результатов А/В теста](fitness_customers_outflow_analysis) |Оценка достоверности результатов А/В теста, предложения по продолжению/завершению/переделки теста| *pandas*, *seaborn*, *sklearn*, *matplotlib*, *scipy* |
+| [Анализ результатов А/В теста](AB_test_results_analysis) |Оценка достоверности результатов А/В теста, предложения по продолжению/завершению/переделки теста| *pandas*, *seaborn*, *sklearn*, *matplotlib*, *scipy* |
