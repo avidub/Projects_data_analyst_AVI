@@ -17,4 +17,4 @@
 | [Анализ причин оттока клиентов фитнесс-клуба](fitness_customers_outflow_analysis) |Решение задачи анализа с использованием методов машинного обучения| *pandas*, *seaborn*, *sklearn*, *matplotlib*, *scipy* |
 | [Анализ эффективности работы операторов колл-центра](call_center_operators_efficiency) |Анализ баз, проработка возможных вариантов оценки эффективности операторов| *pandas*, *seaborn*, *numpy*, *matplotlib*, *datetime*, *scipy*, *plotly* |
 | [Анализ результатов А/В теста](AB_test_results_analysis) |Оценка достоверности результатов А/В теста, предложения по продолжению/завершению/переделки теста| *pandas*, *seaborn*, *numpy*, *matplotlib*, *datetime*, *scipy*, *plotly*  |
-| [Задачи на запросы SQL](SQL_basic_requests) |Выполнение тестовых задач в рамках выпускного проекта| *pandas*, *sqlalchemy*|
+| [Задачи на запросы SQL](SQL_basic_requests) |Выполнение тестовых задач в рамках выпускного проекта по окончании курса обучения| *pandas*, *sqlalchemy*|
